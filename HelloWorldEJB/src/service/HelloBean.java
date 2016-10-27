@@ -10,7 +10,7 @@ import javax.persistence.PersistenceContext;
 import model.Person;
 
 /**
- * Session Bean implementation class HelloBeannnn
+ * Session Bean implementation class HelloBean
  */
 @Singleton
 public class HelloBean implements Serializable{
